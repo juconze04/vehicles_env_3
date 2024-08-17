@@ -21,7 +21,7 @@ Para ejecutar esta aplicación localmente, sigue los siguientes pasos:
 
 ## Despliegue
 
-Esta aplicación está configurada para ser desplegada en Render. El archivo `config.toml` en el directorio `.streamlit` asegura la compatibilidad con Render.
+Esta aplicación está configurada para ser desplegada en Render. El archivo `config.toml` en el directorio `streamlit` asegura la compatibilidad con Render.
 
 ## Mi aplicación URL
 
