@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 
-car_data = pd.read_csv('C:\\Users\\Hewlett Packard\\projecto_vehicles_env_3\\vehicles_env_3-1\\vehicles_us.csv')
+car_data = pd.read_csv('vehicles_us.csv')
 
 # Encabezado
 st.header("Generador de Gráficos")
